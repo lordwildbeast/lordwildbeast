@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python, compuet vision, and machine learning
+
+my pfp is from [artstation/Ben Pham](https://www.artstation.com/artwork/GaO96a)
 <!--
 **lordwildbeast/lordwildbeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
