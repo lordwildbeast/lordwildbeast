@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, LordWildbeast here 👋
 
 - 🌱 I’m currently learning Python, compuet vision, and machine learning
 
