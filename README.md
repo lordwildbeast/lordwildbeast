@@ -1,6 +1,6 @@
 ### Hi there, LordWildbeast here 👋
 
-- 🌱 I’m currently learning Python, compuet vision, and machine learning
+- 🌱 I’m currently learning Python, computer vision, and machine learning
 
 my pfp is from [artstation/Ben Pham](https://www.artstation.com/artwork/GaO96a)
 <!--
